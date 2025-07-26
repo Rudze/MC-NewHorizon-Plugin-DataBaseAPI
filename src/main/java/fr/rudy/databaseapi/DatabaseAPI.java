@@ -2,12 +2,12 @@ package fr.rudy.databaseapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class main extends JavaPlugin {
+public class DatabaseAPI extends JavaPlugin {
 
-    private static main instance;
+    private static DatabaseAPI instance;
     private DatabaseManager databaseManager;
 
-    public static main get() {
+    public static DatabaseAPI get() {
         return instance;
     }
 

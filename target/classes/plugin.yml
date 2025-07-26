@@ -1,4 +1,4 @@
 name: DataBaseAPI
-version: '1'
-main: fr.rudy.dataBaseAPI.main
+version: '1.0'
+main: fr.rudy.databaseapi.DatabaseAPI
 api-version: '1.21'

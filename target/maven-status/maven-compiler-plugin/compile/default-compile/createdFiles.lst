@@ -1,2 +1,2 @@
-fr\rudy\dataBaseAPI\DatabaseManager.class
-fr\rudy\dataBaseAPI\main.class
+fr\rudy\databaseapi\DatabaseAPI.class
+fr\rudy\databaseapi\DatabaseManager.class

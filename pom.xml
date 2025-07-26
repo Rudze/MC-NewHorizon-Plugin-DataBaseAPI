@@ -6,7 +6,7 @@
 
     <groupId>fr.rudy</groupId>
     <artifactId>GN-DataBaseAPI</artifactId>
-    <version>1</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>GN-DataBaseAPI</name>
