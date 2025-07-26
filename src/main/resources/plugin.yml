@@ -1,0 +1,10 @@
+name: DataBase
+version: '1.0-SNAPSHOT'
+main: com.shirito.DataBase.dataBase.DataBase
+api-version: '1.21'
+description: 'Enhanced database plugin providing connection pooling, schema management, and database operations for Minecraft servers'
+author: Shirito
+website: 'https://github.com/shirito/DataBase'
+load: STARTUP
+depend: []
+softdepend: []
