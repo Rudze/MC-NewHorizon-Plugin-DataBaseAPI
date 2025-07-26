@@ -1,9 +1,0 @@
-name: NewHorizon-Database
-version: 1.0.0
-main: fr.rudy.newhorizon.database.DatabaseMain
-api-version: 1.20
-author: Rudy
-description: Database management plugin for NewHorizon server
-website: https://github.com/rudy/newhorizon
-
-load: STARTUP
