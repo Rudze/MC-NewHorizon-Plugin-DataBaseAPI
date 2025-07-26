@@ -1,4 +1,4 @@
-package fr.rudy.dataBaseAPI;
+package fr.rudy.databaseapi;
 
 import java.io.File;
 import java.sql.Connection;

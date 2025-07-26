@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GN-DataBaseAPI.iml" filepath="$PROJECT_DIR$/GN-DataBaseAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data.iml" filepath="$PROJECT_DIR$/data.iml" />
     </modules>
   </component>
 </project>

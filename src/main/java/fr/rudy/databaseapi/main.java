@@ -1,4 +1,4 @@
-package fr.rudy.dataBaseAPI;
+package fr.rudy.databaseapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
