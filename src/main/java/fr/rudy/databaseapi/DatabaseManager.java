@@ -15,10 +15,6 @@ public class DatabaseManager {
             File dbFile = new File("database.db");
             connection = DriverManager.getConnection("jdbc:sqlite:" + dbFile.getPath());
 
-            try (Statement statement = connection.createStatement()) {
-                statement.executeUpdate("CREATE TABLE IF NOT EXISTS example (id INTEGER PRIMARY KEY, name TEXT)");
-            }
-
         } catch (SQLException e) {
             e.printStackTrace();
         }
